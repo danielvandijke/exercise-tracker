@@ -1,0 +1,11 @@
+Goals to achieve at the moment:
+
+1. Have the prompt being entered be presented in a table beneath
+2. Have that table be stored using some kind of local persistence and displayed on startup later.
+3. Think about what the design of this app is going to look like
+4. Save this all to Github. Sounds good to me.
+
+Right first let's upload this stuff to github please Which can be added with...
+
+
+

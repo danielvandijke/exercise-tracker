@@ -1,0 +1,26 @@
+# Android Studio/IDE-specific files
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Specific `.idea` exclusions (optional: share code styles, inspections)
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+
+# Ignore build and intermediary output
+/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# Auto-generated icons (optional: exclude if not customized)
+app/src/main/res/mipmap-*/ic_launcher*.webp
+
+# Security-sensitive files
+*.keystore
